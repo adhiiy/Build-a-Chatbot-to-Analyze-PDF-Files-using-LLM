@@ -1,12 +1,12 @@
 /* Light mode */
 body {
   background-color: #d6ddec;
-  color: #121717;
+  color: #35374B;
 }
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
+  background-color: #344955;
   color: #c9c9c9;
 }
 
